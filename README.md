@@ -1,4 +1,4 @@
-# C-SKY Linux 论坛
+# C-SKY Linux 论坛 更多资料请访问 [c-sky.github.io](https://c-sky.github.io)
 讨论诛仙剑开发板 buildroot uclibc-ng linux-kernel
 
 * 论坛帖子页面[请点这里进入](https://github.com/c-sky/forum/issues)，或者点击左上方的Issues进入。
